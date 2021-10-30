@@ -1,0 +1,97 @@
+body {
+    background-color: #181818;
+}
+
+
+/*logo images and title*/
+
+#logo-img {
+    margin-top: 3em;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#logo-img img {
+    border-radius: 2em;
+}
+
+#logo-img p {
+    margin-top: 1em;
+    font-size: 21px;
+}
+
+
+/*<--------------------->*/
+
+
+/*FORM REGİSTER */
+
+#formRegister {
+    text-align: center;
+    margin-top: 2em;
+}
+
+#birthdayPerson input {
+    width: 32em;
+    height: 3em;
+    border: 2px solid #4d1cff;
+    background-color: #222222;
+    color: #f2f2f2;
+    margin-top: 1em;
+}
+
+
+/*contunie button*/
+
+#continueButton {
+    width: 21em;
+    height: 2em;
+    margin-top: 2em;
+    color: #f2f2f2;
+    font-size: 21px;
+    background-color: #4d1cff;
+}
+
+
+/*country form*/
+
+#formRegister #country {
+    width: 32em;
+    height: 3em;
+    border: 2px solid #4d1cff;
+    background-color: #222222;
+    color: #f2f2f2;
+}
+
+
+/*<--------------------->*/
+
+
+/*with account title (hr)*/
+
+#withAccount {
+    display: flex;
+    text-align: center;
+    margin-left: 41em;
+    margin-top: 1em;
+}
+
+#withAccount hr {
+    width: 12em;
+    height: 0px;
+    margin-top: 3em;
+    border: 1px solid #f2f2f2;
+    margin-left: 2em;
+    margin-right: 2em;
+    opacity: 0.2;
+}
+
+#withAccount p {
+    margin-top: 2em;
+    font-size: 18px;
+    color: #f2f2f2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/*<--------------------->*/

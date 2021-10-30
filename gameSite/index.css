@@ -1,0 +1,258 @@
+body {
+    margin-left: 12em;
+    margin-right: 12em;
+    margin-top: 1em;
+    background-color: #181818;
+}
+
+
+/* logo img and title start... */
+
+
+/*top infos*/
+
+#tagTop {
+    display: flex;
+}
+
+#logoTag {
+    display: flex;
+}
+
+#logoTag h2 {
+    margin-left: 9px;
+    margin-top: 26px;
+    color: #f2f2f2;
+}
+
+#logoTag img {
+    border-radius: 2em;
+}
+
+
+/* logo img and title end... */
+
+
+/*profıl ınfo top  start*/
+
+#profılTag ul {
+    display: flex;
+    margin-left: 58em;
+    font-size: 18px;
+}
+
+#profılTag ul li {
+    list-style: none;
+    margin-left: 21px;
+}
+
+#profılTag a {
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+
+/*profıl ınfo top  end*/
+
+
+/*<------------------------------------->*/
+
+
+/*  tag upper 1st part */
+
+#tag-bckgr1 {
+    background-color: #868686;
+    height: 3em;
+    width: 56em;
+    margin-top: 2.5em;
+    display: flex;
+}
+
+#tag-bckgr1 ul {
+    display: flex;
+}
+
+#tag-bckgr1 ul li {
+    list-style: none;
+    margin-left: 16px;
+    font-size: 18px;
+    margin-right: 6px;
+}
+
+#tag-bckgr1 a {
+    text-decoration: none;
+    color: #f2f2f2;
+    display: flex;
+}
+
+
+/*searc icon top */
+
+#search-icon {
+    margin-left: 42em;
+}
+
+
+/*placeholder color the '-webkit-input-placholder ' :d */
+
+#search-icon ::-webkit-input-placeholder {
+    color: #f2f2f2;
+}
+
+#search-icon .search {
+    width: 16em;
+    height: 2.2em;
+    background-color: #868686;
+    color: #f2f2f2;
+    font-size: 18px;
+    margin-left: 1em;
+    margin-bottom: 0.95em;
+}
+
+
+/*love icon tag */
+
+#loveTagIcon {
+    width: 21em;
+    height: 3em;
+    background-color: #868686;
+    margin-left: 1.5em;
+}
+
+#balanceTag {
+    margin-left: 2.5em;
+}
+
+#balanceTag h3 {
+    font-size: 14px;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+
+/*  tag upper 1st part end */
+
+
+/*<-------------------------------------->*/
+
+
+/*fildset tag start style*/
+
+
+/*all fieldset tag*/
+
+#allFieldset {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+
+/*fiedsets tag */
+
+#fieldsetTag1 fieldset {
+    margin-top: 2em;
+    width: 21em;
+    height: 19em;
+    margin-right: 21px;
+    border-radius: 1em;
+}
+
+#fieldsetTag2 fieldset {
+    margin-top: 2em;
+    width: 21em;
+    height: 19em;
+    margin-right: 21px;
+    border-radius: 1em;
+}
+
+#fieldsetTag3 fieldset {
+    margin-top: 2em;
+    width: 21em;
+    height: 19em;
+    margin-right: 21px;
+    border-radius: 1em;
+}
+
+#fieldsetTag4 fieldset {
+    margin-top: 2em;
+    width: 21em;
+    height: 19em;
+    margin-right: 21px;
+    border-radius: 1em;
+}
+
+
+/*<---------fieldset in the hover background------------------>*/
+
+#fieldsetTag1 fieldset:hover {
+    opacity: 0.6;
+}
+
+#fieldsetTag2 fieldset:hover {
+    opacity: 0.6;
+}
+
+#fieldsetTag3 fieldset:hover {
+    opacity: 0.6;
+}
+
+#fieldsetTag4 fieldset:hover {
+    opacity: 0.6;
+}
+
+
+/*<------------------------->*/
+
+
+/*fieldset img center */
+
+#fieldsetTag1 img {
+    margin-top: 1.55em;
+    margin-left: 1em;
+}
+
+#fieldsetTag2 img {
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+#fieldsetTag3 img {
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+#fieldsetTag4 img {
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+
+/*<------------------------->*/
+
+
+/*fieldset tag title*/
+
+#fieldsetTag1 h3 {
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#fieldsetTag2 h3 {
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#fieldsetTag3 h3 {
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#fieldsetTag4 h3 {
+    text-align: center;
+    color: #f2f2f2;
+}
+
+
+/*fieldset tag end style*/
