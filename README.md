@@ -24,7 +24,6 @@ https://user-images.githubusercontent.com/91744618/139532143-2712f57a-f98a-41b1-
  
 <br>
 
-
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 
